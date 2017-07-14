@@ -1,0 +1,34 @@
+#header {
+	color: darkgray;
+
+}
+#collection {
+	color: solid black;
+}
+#pics {
+	display: block;
+	margin: auto;
+	width: 65%;
+}
+#pics2 {
+	display: block;
+	margin: auto;
+	width: 80%;
+} 
+
+#date {
+	color: blue;
+}
+
+#one {
+	border: 4px solid darkgrey;
+}
+#two {
+	border: 4px solid darkgrey;
+}
+#three {
+	border: 4px solid darkgrey;
+}
+#four {
+	border: 4px solid darkgrey;
+}
