@@ -1,0 +1,19 @@
+body {
+	background-color: PaleTurquoise;
+}
+#header {
+	font-family: avenir;
+	font-size: 40px;
+	border: 4px double white;
+	color: white;
+	border-right: 400px;
+	border-left: 400px;
+}
+
+#input {
+	border: 1 px solid white;
+}
+#para {
+	color: white;
+	font-size: 20px;
+}
