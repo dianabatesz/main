@@ -38,14 +38,6 @@ For this assignment, you'll be building a tic tac toe game in HTML, CSS, and wri
 - After the necessary moves have been played, stop the game and display the winner if one player ends up winning with three in a row
 
 
-** BONUS **
+#### Bonus
 - Write an AI that will play against you and make random moves.
-
-
-#### Deliverable
-
-Here are some screenshots to give you a rough guide of what you'll be creating.  Feel free to get creative with how you style your interface.
-
-![Screen-shot](https://i.imgur.com/kz2L9f9.png)
-![Screen-shot](https://i.imgur.com/d8lFshD.png)
 
