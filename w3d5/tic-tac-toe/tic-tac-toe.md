@@ -1,13 +1,10 @@
 # Tic Tac Toe
 
-## Introduction
+## Intro
 
-So far, we have been writing functions, working with
-loops, and writing conditionals. We also learned about how HTML elements are styled and behave in the DOM, including how to make elements somewhat responsive.
+So far, we have been writing functions, working with loops, and writing conditionals. We also learned about how HTML elements are styled and behave in the DOM, including how to make elements somewhat responsive.
 
 For this assignment, you'll be building a tic tac toe game in HTML, CSS, and writing the logic for the game in JavaScript.
-
-## Exercise
 
 #### Requirements
 
