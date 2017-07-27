@@ -1,0 +1,58 @@
+body{
+	background-color: papayawhip;
+	text-align: center;
+}
+#header {
+	color: OrangeRed;
+	font-family: Impact, sans-serif;
+	border: 4px double DeepSkyBlue;
+	margin-left: 300px; 
+	margin-right: 300px;
+	position: relative;
+}
+
+#agpara {
+	color: darkgray;
+	font-family: Georgia, serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#talents {
+	color: OrangeRed;
+	font-family: Impact, sans-serif;
+	border: 1px double DeepSkyBlue;
+	margin-left: 350px; 
+	margin-right: 350px;
+	position: relative;
+}
+#para2 {
+	color: darkgray;
+	font-family: Georgia, serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#modeling {
+	color: MediumPurple;
+	font-family: Impact, sans-serif;
+}
+#butt {
+    background-color: MediumPurple; 
+    border: 2px dotted white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#drivingheader {
+	color: MediumPurple;
+	font-family: Impact, sans-serif;
+}
+#driving {
+	color: darkgray;
+	font-family: Georgia, serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
