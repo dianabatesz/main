@@ -46,12 +46,14 @@ body {
 
 #to-do-list {
 	width: 380px; height: 600px; 
+	border: 1px solid black;
 
 }
 
 #completed {
 	width: 380px; height: 600px; 
 	margin-left: 400px;
+	border: 1px solid black;
 }
 
 ul#list-thing{
