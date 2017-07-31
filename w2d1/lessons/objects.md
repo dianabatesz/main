@@ -24,7 +24,6 @@ Objects are a type of data structure that is nearly universal across programming
 	- JS: Objects
 	- Ruby: Hashes
 	- Python: Dictionaries
-	- Prework: Associative arrays
 
 In essence, what we're talking about are key/value pairs.
 - Objects are a type of key-value store, or a way to group many pairs of keys and values together.
