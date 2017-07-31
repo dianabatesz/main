@@ -1,0 +1,29 @@
+body{
+	background-color: papayawhip;
+	margin: auto;
+	width: 55%;
+}
+#header {
+	text-align: center;
+	color: blue;
+	border: 3px dotted DeepSkyBlue;
+}
+td {
+	margin-left: 200px;
+	border: 3px double DeepSkyBlue;
+	height: 200px;
+	width: 200px;
+}
+td:hover {
+	background-color: PaleTurquoise;
+}
+#xs {
+	font-size: 70px;
+	color: DeepSkyBlue;
+	text-align: center;
+}
+#ys {
+	font-size: 70px;
+	color: DeepSkyBlue;
+	text-align: center;
+}
